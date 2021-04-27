@@ -1,0 +1,7 @@
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\bin\Debug\CoolLangInterpreter.exe.config
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\bin\Debug\CoolLangInterpreter.exe
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\bin\Debug\CoolLangInterpreter.pdb
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\obj\Debug\CoolLangInterpreter.csprojAssemblyReference.cache
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\obj\Debug\CoolLangInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\obj\Debug\CoolLangInterpreter.exe
+C:\Users\watso\source\repos\CoolLangInterpreter\CoolLangInterpreter\obj\Debug\CoolLangInterpreter.pdb
